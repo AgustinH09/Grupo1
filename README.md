@@ -1,6 +1,20 @@
 # Grupo1
 Git Grupo1
 
+**Beginners Guide**
+
+ If you are a total beginner to this, start here!
+
+
+
+1. Visit hackmd.io
+
+ 2. Click “Sign in”
+
+ 3. Choose a way to sign in
+
+ 4. Start writing note!
+
 Feature: Guess the word
 
   # The first example has two steps
