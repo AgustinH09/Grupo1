@@ -29,3 +29,6 @@ Feature: Guess the word
     Then the Breaker must guess a word with 5 characters
 
 ![](https://i.imgur.com/GjTVACt.jpg)
+
+![](https://i.imgur.com/UOz9QdI.png)
+
